@@ -353,7 +353,7 @@ const projects = [
      
     ],
     codeLink: "https://github.com/jitender004/wonderful-sound-2096",
-    liveLink: "https://master.d23z4v79tx0nu6.amplifyapp.com/",
+    liveLink: "https://wonderful-sound-2096-nu.vercel.app/",
   },
 ];
 
