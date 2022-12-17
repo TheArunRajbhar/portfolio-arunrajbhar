@@ -1,17 +1,11 @@
-﻿
-import emoji from "react-easy-emoji";
-
+﻿import emoji from "react-easy-emoji";
 
 const greeting = {
   username: "Arun Rajbhar ",
   title: "Hi, I'm Arun",
-  subTitle: emoji([
-    "Full Stack Developer",
-    "Computer Engineer",
-  
-  ]),
+  subTitle: emoji(["Full Stack Developer", "Computer Engineer"]),
   resumeLink:
-    "https://drive.google.com/file/d/1U1nVeN_bYIRY9sfBWarpWUijrTXtvU69/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1mX42Fc11Re2HB7T6EAD7xyppNqSB82if?usp=share_link",
 };
 
 const socialMediaLinks = {
@@ -20,8 +14,6 @@ const socialMediaLinks = {
   gmail: "arunrajbhar1998@gmail.com",
   twitter: "https://twitter.com/arunrajbhar1998",
 };
-
-
 
 const skillsSection = {
   title: "Skills",
@@ -166,8 +158,7 @@ const skillsSection = {
         style: {
           backgroundColor: "transparent",
         },
-      }
-      ,
+      },
       {
         skillName: " Mongodb ",
         classname: "vscode-icons:file-type-mongo",
@@ -225,37 +216,16 @@ const skillsSection = {
 };
 
 const workExperiences = {
-  viewExperiences: false, //Set it to true to show workExperiences Section
+  viewExperiences: true, 
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      ],
-    },
-    {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "SDE-1",
+      company: "Mayhem-Studios",
+      companylogo: require("./assets/images/1290457-mayem.jpg"),
+      date: "Dec 2022 – Present",
     },
   ],
 };
-
-
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
@@ -308,7 +278,7 @@ const projects = [
       "icon-park:html-five",
       "vscode-icons:file-type-css",
       "logos:bootstrap",
-      "la:node-js"
+      "la:node-js",
     ],
     codeLink: "https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website",
     liveLink: "https://arjunsinghbhakuni.github.io/Mytheresa-clone-website/",
@@ -329,7 +299,6 @@ const projects = [
       "icon-park:html-five",
       "vscode-icons:file-type-css",
       "logos:material-ui",
-     
     ],
     codeLink: "https://github.com/arunrajbhar123/expedia",
     liveLink: "https://expedia-clone-004.netlify.app/",
@@ -350,7 +319,6 @@ const projects = [
       "icon-park:html-five",
       "vscode-icons:file-type-css",
       "logos:material-ui",
-     
     ],
     codeLink: "https://github.com/jitender004/wonderful-sound-2096",
     liveLink: "https://wonderful-sound-2096-nu.vercel.app/",

@@ -18,6 +18,7 @@ export default class Main extends Component {
         <Greeting />
         <About/>
         <Skills />
+    
         <WorkExperience />
         <Projects />
         <Profile />
