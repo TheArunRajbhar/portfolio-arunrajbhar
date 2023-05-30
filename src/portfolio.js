@@ -165,6 +165,12 @@ const skillsSection = {
         style: {
           backgroundColor: "transparent",
         },
+        {
+        skillName: " Postgresql ",
+        classname: "vscode-icons:file-type-postgresql",
+        style: {
+          backgroundColor: "transparent",
+        },
       },
     ],
 
