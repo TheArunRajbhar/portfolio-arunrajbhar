@@ -12,7 +12,7 @@ export default function Skills() {
           <div className="skills-image-div">
             <img
               alt="arun Working"
-              src={require("../../assets/images/desk.png")}
+              src={require("../../assets/images/desk.jpg")}
             ></img>
           </div>
         </Fade>
@@ -20,9 +20,9 @@ export default function Skills() {
           <div className="skills-text-div">
             <h1 className="skills-heading">{skillsSection.title} </h1>
             <span className="line"></span>
-            {/* <p className="subTitle skills-text-subtitle">
+            <p className="subTitle skills-text-subtitle">
               {skillsSection.subTitle}
-            </p> */}
+            </p>
             <SoftwareSkill />
           </div>
         </Fade>

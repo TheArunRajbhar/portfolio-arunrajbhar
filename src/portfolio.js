@@ -33,13 +33,29 @@ const skillsSection = {
       {
         skillName: "Typescript",
         classname: "logos:typescript-icon",
+        status: "developed",
+        style: {
+          backgroundColor: "transparent",
+        },
+      },
+      {
+        skillName: "Java",
+        classname: "logos:java",
         status: "intermediate",
         style: {
           backgroundColor: "transparent",
         },
       },
     ],
-
+    androidDesigns: [
+      {
+        skillName: "Android-Studio",
+        classname: "logos:android-icon",
+        style: {
+          backgroundColor: "transparent",
+        },
+      },
+    ],
     designs: [
       {
         skillName: "Html",
@@ -165,9 +181,10 @@ const skillsSection = {
         style: {
           backgroundColor: "transparent",
         },
-        {
+      },
+      {
         skillName: " Postgresql ",
-        classname: "vscode-icons:file-type-postgresql",
+        classname: "logos:postgresql",
         style: {
           backgroundColor: "transparent",
         },
@@ -222,7 +239,7 @@ const skillsSection = {
 };
 
 const workExperiences = {
-  viewExperiences: true, 
+  viewExperiences: true,
   experience: [
     {
       role: "SDE-1",

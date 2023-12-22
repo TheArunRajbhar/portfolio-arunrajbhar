@@ -21,7 +21,7 @@ function Header() {
             <span className="navicon"> </span>{" "}
           </label>{" "}
           <ul className="menu">
-            <li>
+            <li >
               <a href="#"> Home </a>{" "}
             </li>{" "}
             <li>
