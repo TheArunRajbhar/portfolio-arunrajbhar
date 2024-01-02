@@ -24,6 +24,7 @@ export default function WorkExperience() {
                         companylogo: card.companylogo,
                         role: card.role,
                         descBullets: card.descBullets,
+                        joinDate: card.joinDate,
                       }}
                     />
                   );

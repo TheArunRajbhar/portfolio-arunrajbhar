@@ -1,13 +1,13 @@
-import React,{useEffect} from "react";
+import React, { useEffect } from "react";
 import "./SoftwareSkill.css";
 import { skillsSection } from "../../portfolio";
-
+import ColorThief from "colorthief";
 
 export default function SoftwareSkill() {
   useEffect(() => {
-   document.title="Arun Rajbhar | Skills"
-  }, [])
-  
+    document.title = "Arun Rajbhar | Skills";
+  }, []);
+
   return (
     <div>
       <div className="software-skills-main-div">

@@ -246,6 +246,7 @@ const workExperiences = {
       company: "Mayhem-Studios",
       companylogo: require("./assets/images/1290457-mayem.jpg"),
       date: "Dec 2022 – Present",
+      joinDate: "December 2022",
     },
   ],
 };
