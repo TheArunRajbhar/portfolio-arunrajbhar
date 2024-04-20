@@ -27,7 +27,7 @@ function App() {
               "@type": "Organization",
               "name": "Arun Rajbhar",
               "url": "https://portfolio-arunrajbhar.vercel.app/",
-              "logo": "https://portfolio-arunrajbhar.vercel.app/"
+          
             }
           `}
         </script>
