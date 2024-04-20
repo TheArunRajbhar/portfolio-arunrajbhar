@@ -25,9 +25,9 @@ function App() {
             {
               "@context": "http://schema.org",
               "@type": "Organization",
-              "name": "Arjio Store",
-              "url": "https://www.arjiostore.com",
-              "logo": "https://www.arjiostore.com/logo.png"
+              "name": "Arun Rajbhar",
+              "url": "https://portfolio-arunrajbhar.vercel.app/",
+              "logo": "https://portfolio-arunrajbhar.vercel.app/"
             }
           `}
         </script>
