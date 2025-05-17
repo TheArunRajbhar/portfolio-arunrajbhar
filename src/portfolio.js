@@ -5,7 +5,7 @@ const greeting = {
   title: "Hi, I'm Arun",
   subTitle: emoji(["Full Stack Developer", "Computer Engineer"]),
   resumeLink:
-    "https://drive.google.com/drive/folders/1mX42Fc11Re2HB7T6EAD7xyppNqSB82if?usp=share_link",
+    "https://drive.google.com/drive/folders/107eaN3sZiNE-uCJ5jxjGCAf9LGLd_2rV?usp=sharing",
 };
 
 const socialMediaLinks = {
@@ -242,10 +242,10 @@ const workExperiences = {
   viewExperiences: true,
   experience: [
     {
-      role: "SDE-1",
+      role: "Web Developer (SDE-1)",
       company: "Mayhem-Studios",
       companylogo: require("./assets/images/1290457-mayem.jpg"),
-      date: "Dec 2022 – Present",
+      date: "Dec 2022 – May 2025",
       joinDate: "December 2022",
     },
   ],

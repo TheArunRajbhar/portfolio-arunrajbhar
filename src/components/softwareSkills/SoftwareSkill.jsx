@@ -51,7 +51,7 @@ export default function SoftwareSkill() {
             );
           })}
 
-          <h2>Android Design</h2>
+          {/* <h2>Android Design</h2>
           {skillsSection.allskills.androidDesigns.map((skills) => {
             return (
               <li
@@ -68,7 +68,7 @@ export default function SoftwareSkill() {
                 <p>{skills.skillName}</p>
               </li>
             );
-          })}
+          })} */}
           <h2>Frontend</h2>
           {skillsSection.allskills.frontends.map((skills) => {
             return (

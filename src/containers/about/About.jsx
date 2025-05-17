@@ -5,27 +5,25 @@ const About = () => {
       <div id="main">
         <div className="heading">About</div>
         <p>
-          Greetings,
-          <br /> I'm Arun Rajbhar, a dedicated Full Stack Developer based in
-          Mumbai, Maharashtra. With a rich background in creating dynamic
-          digital experiences, I specialize in cloning sophisticated e-commerce
-          websites.
-          <br /> My frontend toolkit includes HTML, CSS, JavaScript, ReactJs,
-          and TypeScript, enabling me to build intuitive and visually appealing
-          user interfaces. I have a keen eye for detail and ensure a seamless
-          user experience through meticulous app testing using Cypress.
-          <br /> In the backend domain, I leverage the power of NodeJs and
-          Express to construct robust and scalable solutions. Additionally, my
-          proficiency extends to mobile app development, where I harness the
-          capabilities of Android Studio and Java to craft responsive and
-          feature-rich applications.
-          <br /> Each project I undertake is a testament to my commitment to
-          continuous improvement. I approach challenges with enthusiasm and
-          embrace emerging technologies to stay at the forefront of the
-          ever-evolving tech landscape. <br /> Explore my portfolio to witness
-          the culmination of my skills and passion for building innovative
-          digital solutions. Let's connect and discuss how I can contribute to
-          your next project.
+          Greetings!
+          <br />
+          I'm Arun Rajbhar, a passionate and dedicated Full Stack Developer
+          based in Mumbai, Maharashtra, with over 2.5 years of professional
+          experience in building dynamic, high-performance web applications. I
+          specialize in developing and cloning sophisticated e-commerce
+          platforms, focusing on performance, user experience, and clean
+          architecture. <br />
+          Known for high productivity and efficient problem-solving, I bring
+          strong technical skills in JavaScript, React.js, and Node.js. I’ve
+          worked across the full development lifecycle—designing, building, and
+          maintaining scalable applications—while collaborating effectively with
+          cross-functional teams.
+          <br /> My commitment to continuous learning helps me stay ahead in
+          today’s fast-evolving tech landscape. Whether it’s adopting new
+          frameworks or optimizing existing codebases, I’m driven to build
+          reliable, innovative, and impactful solutions.
+          <br /> Explore my portfolio to see the projects I’ve worked on, and
+          let’s connect to discuss how I can contribute to your next venture.
         </p>
       </div>
     </div>
