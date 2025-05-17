@@ -8,7 +8,7 @@ const About = () => {
           Greetings!
           <br />
           I'm Arun Rajbhar, a passionate and dedicated Full Stack Developer
-          based in Mumbai, Maharashtra, with over 2.5 years of professional
+          based in Mumbai, Maharashtra, with over 3 years of professional
           experience in building dynamic, high-performance web applications. I
           specialize in developing and cloning sophisticated e-commerce
           platforms, focusing on performance, user experience, and clean

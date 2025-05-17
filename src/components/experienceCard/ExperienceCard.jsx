@@ -47,10 +47,9 @@ export default function ExperienceCard({ cardInfo }) {
       (currentDate.getFullYear() - startDate.getFullYear()) * 12 +
       (currentDate.getMonth() - startDate.getMonth());
 
-    const yearsOfExperience = Math.floor(monthsDifference / 12);
-    const remainingMonths = monthsDifference % 12;
+    const yearsOfExperience = Math.ceil(monthsDifference / 12);
 
-    return `(${yearsOfExperience} Years and ${remainingMonths} Months)`;
+    return `(${yearsOfExperience} Years)`;
   };
 
   return (
