@@ -9,8 +9,8 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/arunrajbhar123",
-  linkedin: "https://www.linkedin.com/in/arun-rajbhar-11570b216/",
+  github: "https://github.com/thearunrajbhar",
+  linkedin: "https://www.linkedin.com/in/thearunrajbhar",
   gmail: "arunrajbhar1998@gmail.com",
   twitter: "https://twitter.com/arunrajbhar1998",
 };
@@ -242,8 +242,8 @@ const workExperiences = {
   viewExperiences: true,
   experience: [
     {
-      role: "Web Developer (SDE-1)",
-      company: "Mayhem-Studios",
+      role: "Software Development Engineer",
+      company: "Mayhem Studios",
       companylogo: require("./assets/images/1290457-mayem.jpg"),
       date: "Dec 2022 – May 2025",
       joinDate: "December 2022",

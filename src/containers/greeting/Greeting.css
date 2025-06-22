@@ -53,7 +53,7 @@
   height: auto;
   border-radius: 18px;
   height: 350px;
-  max-width: 350px;
+  max-width: auto;
   transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
   box-shadow: -1px -1px 21px 1px rgb(244, 244, 244);
 }
