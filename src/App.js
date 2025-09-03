@@ -34,6 +34,7 @@ function App() {
         </script>
       </Helmet>
       <Main />
+     <Analytics />
     </div>
   );
 }
